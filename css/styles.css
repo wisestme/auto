@@ -1,6 +1,9 @@
+body {
+	font-family: Helvetica, Arial;
+	font-size: 1.2em;
+}
 h1, h2 {
 	color: green;
-	font-family: Helvetica, Arial;
 }
 
 h1 {
@@ -12,7 +15,5 @@ h2 {
 }
 
 p {
-	font-size: 1.2em;
 	text-align: justify;
-	font-family: Helvetica, Arial;
 }
