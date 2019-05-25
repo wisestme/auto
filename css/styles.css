@@ -1,6 +1,5 @@
 h1, h2 {
 	color: green;
-	
 	font-family: Helvetica, Arial;
 }
 
@@ -10,4 +9,10 @@ h1 {
 
 h2 {
 	font-size: 1.5em;
+}
+
+p {
+	font-size: 1.2em;
+	text-align: justify;
+	font-family: Helvetica, Arial;
 }
