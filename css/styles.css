@@ -1,6 +1,7 @@
 body {
 	font-family: Helvetica, Arial;
 	font-size: 1.2em;
+	background-color: #eee;
 }
 h1, h2 {
 	color: green;
