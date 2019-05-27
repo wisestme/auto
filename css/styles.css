@@ -8,6 +8,9 @@ body {
 	font-family: Helvetica, Arial;
 	font-size: 1.2em;
 	background-color: #eee;
+	width: 96%;
+	margin-left: auto;
+	margin-right: auto;
 }
 h1, h2 {
 	color: #21df21;
